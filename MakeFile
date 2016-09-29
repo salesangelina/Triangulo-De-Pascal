@@ -1,0 +1,3 @@
+############################# Makefile ##########################
+        # O algoritmo foi implementado e testado na IDE CodeBlocks no Windows
+        # Utilizando o compilador da própria IDE, pressionando a tecla f9 do teclado.
